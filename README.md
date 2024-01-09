@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# YouTube Subscriber
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The YouTuber Subscriber Management API is a project designed to provide a backend solution for managing subscriber data for a YouTuber's channel. It includes functionality to fetch all subscribers, retrieve specific subscriber details by ID, and obtain a list of subscriber names.
+
+
+
+## Features
+
+- Fetch all subscriber details from the database.
+- Retrieve subscriber names and subscribed channels.
+- Search for a subscriber using their unique ID.
+
+## Tech Stack
+React, Redux, TailwindCSS 
 
 ## Available Scripts
 

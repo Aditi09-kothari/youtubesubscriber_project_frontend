@@ -11,7 +11,7 @@ The YouTuber Subscriber Management API is a project designed to provide a backen
 - Search for a subscriber using their unique ID.
 
 ## Tech Stack
-React, Redux, TailwindCSS 
+React, Redux, TailwindCSS, MongoDB 
 
 ## Available Scripts
 
